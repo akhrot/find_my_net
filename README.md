@@ -9,8 +9,8 @@ Another trouble while grasping for network signal is the amount of displacement 
 
 We aim to simplify this by a feature in the app, that allows multiple people to check for signal all at once, and compare the signals received by all the devices, possibly in real time, and finding the best result from that. The time required and area to be covered for searching for signal is greatly reduced with each new user/device added to the search. We beleive this will greatly help users during stressful times.
 
-Also, apart from disasters, this app also finds general use cases, for places where network availability is not. Taking my own example, there are a lot of places in our campus, where the network availability varies greatly, even if you move your device by a small distance. This app my just help you find your best bench in a classroom, best location in your hostel to talk to your loved ones (I had to do this manually), etc.
+Also, apart from disasters, this app also finds general use cases, for places where network availability is not exactly excellent. Taking my own example, there are a lot of places in our campus, where the network availability varies greatly, even if you move your device by a small distance. This app my just help you find your best bench in a classroom, best location in your hostel to talk to your loved ones (I had to do this manually), etc.
 
 Technologies to be used :
-Android (Of course)
+Android (Of course).
 Bluetooth/WiFi : to connect multiple devices for real time comparison of network signals.
